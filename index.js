@@ -134,7 +134,7 @@ const addNewEmployee = () => {
             const managerChoices = result[0].map((employee) =>
             (
                 {
-                    name: employee.first_name,
+                    name: `${employee.first_name} ${employee.last_name}`,
                     value: employee.id
                 }
             ))

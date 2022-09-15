@@ -53,11 +53,13 @@ Note that there is no testing for this project!
 * [Contact](#contact)
 
 ## Project Demonstration
-[Project Video Demo]
+[Project Video Demo](https://user-images.githubusercontent.com/106945679/190521573-043d3e41-5a80-4ba8-9271-5f065395b7a3.mp4)
 
 ## Final Thoughts
 
+
 ## Utilized Resources
+[Console Table](https://www.npmjs.com/package/console.table)
 
 ## Contact
 As always if you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com`!
