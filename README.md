@@ -56,7 +56,7 @@ Note that there is no testing for this project!
 [Project Video Demo](https://user-images.githubusercontent.com/106945679/190521573-043d3e41-5a80-4ba8-9271-5f065395b7a3.mp4)
 
 ## Final Thoughts
-
+I didn't find any particularly hard challenges for this week's project because it was mainly using concepts that were previously used in other weekly projects; furthermore I had prior knowledge in using SQL, so using SQL and structuring SQL queries were not hard for me. In addition, I really enjoyed making this application as I could see changes instantly depending on what I put into inquirer prompt. The only hard time that I had was re-arranging names of functions and use it correctly. For examplle, at one point I had over 500 lines of codes in my index.js and made me really confused to find correct names of functions. Hence, I had to separate files that contain functions for performing specific SQL queries for the project; for instance, I separated `connection.js`, `query.js`, and `question.js` files so that they don't all stay in one file and confuse me whenever I had to use functions.
 
 ## Utilized Resources
 [Console Table](https://www.npmjs.com/package/console.table)
