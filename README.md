@@ -34,6 +34,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Installation & Usage & Tests
+Type `npm init` in the terminal to get package.json.
+
+Type `npm install` in the terminal to install dependencies for the project.
+
+Type `node index.js` to initiate the application.
+
+Note that there is no testing for this project!
 
 ## Table of Contents
 * [Description](#description)
@@ -41,16 +48,12 @@ THEN I am prompted to select an employee to update and their new role and this i
 * [Acceptance Criteria](#acceptance-criteria)
 * [Installation & Usage](#installation--usage--tests)
 * [Project Demo](#project-demonstration)
-* [Heroku Deployed Link](#heroku-deployed-link)
 * [Final Thoughts](#final-thoughts)
 * [Utilized Resources](#utilized-resources)
 * [Contact](#contact)
 
 ## Project Demonstration
 [Project Video Demo]
-
-## Heroku Deployed Link
-[Link to Deployed app @ Heroku]
 
 ## Final Thoughts
 

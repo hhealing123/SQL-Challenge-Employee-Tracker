@@ -28,13 +28,13 @@ const employeeQuestions = [
 const roleQuestions = [
     {
         type: "input",
-        message: "What is the title of the role of the employee?",
-        name: "role_title"
+        message: "What is the name of the role?",
+        name: "title"
     },
     {
         type: "input",
-        message: "What is the salary of the new role of the employee?",
-        name: "role_salary"
+        message: "What is the salary of the role?",
+        name: "salary"
     },
 ];
 
@@ -42,8 +42,8 @@ const roleQuestions = [
 const departmentQuestions =[
     {
         type: "input",
-        message: "What is the name of the new department of the employee?",
-        name: "new_department"
+        message: "What is the name of the department?",
+        name: "name"
     }
 ];
 
